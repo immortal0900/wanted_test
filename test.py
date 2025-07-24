@@ -1,2 +1,2 @@
 print("hello")
-print('실습')
+print('실습ddd')
