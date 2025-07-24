@@ -1,2 +1,2 @@
 print("hello")
-print('유정')
+print('실습')
